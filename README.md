@@ -1,5 +1,5 @@
 # Calendar Mini Project
-This is about Calendar Producing Mini project basec on c programmin
+This is about Calendar Producing Mini project basec on c programming
 
 Source code for this project : https://github.com/Deepika031203/Calendar-Mini-Project/blob/main/source-code.c
 
