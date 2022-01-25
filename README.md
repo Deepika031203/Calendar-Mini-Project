@@ -1,2 +1,2 @@
 # c-programs
-mini project
+This is about mini project source codes
